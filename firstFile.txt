@@ -3,7 +3,7 @@ Blazing-Blue
 Green
 
 -----hunk1 start-----
-Only commit this
+Commit hunk1 and hunk2. Hunk2 is further down
 -----hunk1 end-------
 Yellow
 Blood Orange
