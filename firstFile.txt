@@ -1,10 +1,9 @@
 Black
-Blazing Blue
+Blazing-Blue
 Green
 
 Yellow
-Orange
-   Blood Orange
+Blood Orange
 Pink
 
 Crimson
