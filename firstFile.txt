@@ -8,6 +8,8 @@ Commit hunk1 and hunk2. Hunk2 is further down
 Yellow
 Blood Orange
 Pink
-
+-----hunk2 start-----
+This is hunk2
+-----hunk2 end-------
 Crimson
 Aqua
